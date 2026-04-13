@@ -5,10 +5,10 @@
   Hi, I'm <strong>Jameel Faiz</strong>
 </h1>
 
-<h3>Full Stack Developer | MERN • Python • Flutter</h3>
+<h3>Student | MERN • Python • Flutter</h3>
 
   <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
+    I'm a student who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
     From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
   </p>
 
