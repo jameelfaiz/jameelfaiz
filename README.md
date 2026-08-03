@@ -5,7 +5,7 @@
   Hi, I'm <strong>Jameel Faiz</strong>
 </h1>
 
-<h3>Student | MERN • Python • Flutter</h3>
+<h3>Student |Python • Flutter</h3>
 
   <p>
     I'm a student who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
